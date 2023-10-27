@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">from barcelona<br><br>- 🔭 currently working as an officer in the spanish air force🚀🇪🇸<br>- 📚 hyped about machine learning <br>- ⚡ MsC @mbit data school (data science)<br><br>my philosophy is basically this, and this is something that I live by, and I always have, and I always will: <br><br>"Don't ever, for any reason, do anything, to anyone, for any reason, ever, no matter what, no matter where, or who, or who you are with, or where you are going, or where you've been, ever, for any reason whatsoever."</p>
+<p align="left">from barcelona<br><br>- 🔭 <br>my philosophy is basically this, and this is something that I live by, and I always have, and I always will: <br><br>"Don't ever, for any reason, do anything, to anyone, for any reason, ever, no matter what, no matter where, or who, or who you are with, or where you are going, or where you've been, ever, for any reason whatsoever."</p>
 
 ###
 
